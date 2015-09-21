@@ -1,0 +1,2 @@
+/Users/shrirang/Documents/openCV codes/cse-408-group1/CMakeFiles/part2.dir
+/Users/shrirang/Documents/openCV codes/cse-408-group1/CMakeFiles/part1.dir

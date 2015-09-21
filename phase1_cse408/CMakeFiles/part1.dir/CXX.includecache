@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrirang/Documents/openCV codes/cse-408-group1/colorinstance.cpp
+colorinstance.h
+/Users/shrirang/Documents/openCV codes/cse-408-group1/colorinstance.h
+
+/Users/shrirang/Documents/openCV codes/cse-408-group1/colorinstance.h
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+
+/Users/shrirang/Documents/openCV codes/cse-408-group1/part1.cpp
+iostream
+-
+cmath
+-
+opencv2/core/core.hpp
+/Users/shrirang/Documents/openCV codes/cse-408-group1/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/Users/shrirang/Documents/openCV codes/cse-408-group1/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/Users/shrirang/Documents/openCV codes/cse-408-group1/opencv2/imgproc/imgproc.hpp
+fstream
+-
+colorinstance.h
+/Users/shrirang/Documents/openCV codes/cse-408-group1/colorinstance.h
+
